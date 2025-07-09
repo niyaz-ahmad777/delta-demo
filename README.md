@@ -1,2 +1,5 @@
-# delta-demo
-This is a Demo for Git &amp; Github Class.
+# New Project 
+
+This project was created from local system.
+
+created by Niyaz Ahmad.
